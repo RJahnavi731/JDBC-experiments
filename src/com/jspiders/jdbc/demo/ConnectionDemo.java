@@ -16,6 +16,6 @@ public class ConnectionDemo {
             e.printStackTrace();
             System.out.println("cant connect to the database....");
         }
-        System.out.println("program ends...");
+        System.out.println("program ends...now");
     }
 }
